@@ -1,11 +1,9 @@
 <h1 style="background:linear-gradient(90deg, rgba(122,116,218,0.8870141806722689) 0%, rgba(9,121,115,0.8281906512605042) 35%, rgba(0,212,255,1) 100%); -webkit-background-clip: text;-webkit-text-fill-color: transparent;" align="center">Hi 👋, I'm Javier Romario Harford
 </h1>
 <h1><pre><code>
-```
  ┏┓┏━┓╻ ╻╻┏━╸┏━┓   ┏━┓┏━┓┏┳┓┏━┓┏━┓╻┏━┓
   ┃┣━┫┃┏┛┃┣╸ ┣┳┛   ┣┳┛┃ ┃┃┃┃┣━┫┣┳┛┃┃ ┃
 ┗━┛╹ ╹┗┛ ╹┗━╸╹┗╸   ╹┗╸┗━┛╹ ╹╹ ╹╹┗╸╹┗━┛
-```
 </code></pre></h1>
 <h3 align="center">
   Software Engineer from South London
