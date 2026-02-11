@@ -4,7 +4,7 @@
 ┗━┛╹ ╹┗┛ ╹┗━╸╹┗╸   ╹┗╸┗━┛╹ ╹╹ ╹╹┗╸╹┗━┛
 ```
 
-- 🌱 I’m currently learning **Building CLI tools with Nim, Rust**
+- 🌱 I’m currently learning **Building CLI tools with Rust**
 
 - 💬 Ask me about **React, Typescript, NextJS and Wordpress**
 
