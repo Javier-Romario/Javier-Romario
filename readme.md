@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Building CLI tools with Rust**
 
-- 💬 Ask me about **React, Typescript, NextJS and Wordpress**
+- 💬 Ask me about **React, Vue, Typescript, NextJS and Nuxt**
 
 - ⚡ Fun fact **I like to breakdance and skateboard**
 
